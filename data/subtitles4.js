@@ -1,0 +1,6 @@
+(function () {
+	const subtitles = {
+			data: "WEBVTT\n\n00:00.079 --> 00:04.379\nA befektetéseknek általában három céljuk\nlehet: Az egyik\n\n00:04.400 --> 00:08.800\nbefektetési cél a jövedelemszerzés. Ez azt\njelenti, hogy a\n\n00:08.800 --> 00:13.379\nbefektetésed rendszeresen pénzt hoz. Ilyen\npéldául az osztalék,\n\n00:13.420 --> 00:18.340\na kamat vagy a garázs kiadásából származó\nbevétel. A másik cél a\n\n00:18.420 --> 00:23.099\ntőke növelése. Ilyenkor azt szeretnéd\nelérni, hogy a befektetésed\n\n00:23.139 --> 00:27.879\nértéke idővel növekedjen. Jó példa erre,\namikor egy részvény\n\n00:27.899 --> 00:32.598\nára emelkedik. A harmadik cél a tőke\nmegőrzése. Ez\n\n00:32.619 --> 00:36.100\narról szól, hogy megvédd a befektetett\npénzed értékét,\n\n00:36.380 --> 00:41.259\nés ne veszíts belőle sokat az esetleges\ninfláció vagy a piaci ingadozások miatt.\n\n00:41.879 --> 00:46.819\nIlyenkor jó megoldás az inflációkövető\nállampapír. Egyéni céljaidtól\n\n00:46.819 --> 00:51.740\nfüggően ezek különböző súllyal eshetnek\nlatba, és meghatározzák a választott\n\n00:51.759 --> 00:53.629\nbefektetési formát is.\n\n"
+		};
+	window["st_{0D632795-12C7-4480-A543-CC2AEAFC68B8}"]?.("sndAsset5", subtitles);
+})();
